@@ -1,4 +1,4 @@
-# Apple-Cocoapod-KochavaTracker
+# KochavaTracker - XCFramework
 
 [![Version](https://img.shields.io/cocoapods/v/Apple-Cocoapod-KochavaTracker.svg?style=flat)](http://cocoapods.org/pods/Apple-Cocoapod-KochavaTracker)
 [![Releases](https://img.shields.io/github/v/release/kochava/Apple-SwiftPackage-KochavaTracker?include_prereleases&sort=semver)](https://github.com/Kochava/Apple-SwiftPackage-KochavaTracker/releases)
@@ -24,6 +24,7 @@ The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-
 ## Dependencies
 
 * [KochavaCore](https://cocoapods.org/pods/Apple-Cocoapod-KochavaCore)
+
 [![Version](https://img.shields.io/cocoapods/v/Apple-Cocoapod-KochavaCore.svg?style=flat)](https://cocoapods.org/pods/Apple-Cocoapod-KochavaCore) [![Download](https://img.shields.io/github/v/release/kochava/Apple-SwiftPackage-KochavaCore?include_prereleases&sort=semver)](https://github.com/Kochava/Apple-SwiftPackage-KochavaCore/releases)
 
 ## Installation
@@ -32,7 +33,7 @@ Apple-Cocoapod-KochavaTracker is available through [CocoaPods](http://cocoapods.
 To install it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'Apple-Cocoapod-KochavaTracker'
+pod 'ub-kochava-tracker'
 ```
 
 ## Example
